@@ -1,5 +1,5 @@
 const clientId = 'e8dafecfa2c34d1abe876908c56d56c2';
-const redirectUri = 'http://localhost:3000/';
+const redirectUri = 'https://jammingtest.vercel.app';
 let accessToken;
 
 
